@@ -1,0 +1,1 @@
+$client = new-object System.Net.WebClient|$client.DownloadFile('https://p4.wallpaperbetter.com/wallpaper/500/442/354/outrun-vaporwave-hd-wallpaper-preview.jpg' ,'C:\\Users\\zatorexzo\\Desktop\\imagen.jpg')
